@@ -35,7 +35,8 @@ Survival in Astro Blitz requires strategic use of shields and power-ups. Players
 
 ## Screenshots
 
-![4](https://github.com/mrtglr/Astro-Blitz/assets/78295915/daa6492f-668a-450b-bdfa-e2bf2842c51e)
-![3](https://github.com/mrtglr/Astro-Blitz/assets/78295915/5f0a8902-c2ec-46cf-93f9-4772e59f0b6d)
-![2](https://github.com/mrtglr/Astro-Blitz/assets/78295915/2fcc6437-3c8e-4a4e-8300-a9cc900713f1)
-![1](https://github.com/mrtglr/Astro-Blitz/assets/78295915/2156d9c1-879d-491f-94eb-80d2ccd5af09)
+![1](https://github.com/mrtglr/Astro-Blitz/assets/78295915/d91bf012-73be-4079-9de5-34a2b4e85ac0)
+![2](https://github.com/mrtglr/Astro-Blitz/assets/78295915/db67231c-56fb-4889-a4c8-66ef948e21e8)
+![4](https://github.com/mrtglr/Astro-Blitz/assets/78295915/51598778-cced-4752-be13-59b52a376761)
+![3](https://github.com/mrtglr/Astro-Blitz/assets/78295915/d062334b-d171-4223-a9aa-7a2ff4e5669b)
+
