@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: dc4cdb9c04a19c7499d7316e279e8d52
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Expansiva
+  fontNames:
+  - Expansiva
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: da1fb530231549348999d902ed8df5f4, type: 3}
+  - {fileID: 12800000, guid: 0ff52ca4ae284ae4aa7283d37c88adf1, type: 3}
+  - {fileID: 12800000, guid: a9b54e0a366b52f498d4483d7c0365e6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
