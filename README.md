@@ -1,6 +1,6 @@
 # Astro Blitz
 
-Astro Blitz is 3D Unity game for university Game Programming course project.
+Astro Blitz is 3D Unity game developed for university game programming course project.
 
 ## Screenshots
 
