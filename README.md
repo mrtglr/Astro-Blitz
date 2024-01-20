@@ -1,4 +1,4 @@
-# Astro Blitz 🚀
+# Astro Blitz
 
 Astro Blitz is 3D Unity game for university Game Programming course project.
 
